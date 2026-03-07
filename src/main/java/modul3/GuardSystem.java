@@ -44,7 +44,7 @@ public class GuardSystem {
         GuardSystem mahasiswa = new GuardSystem();
         GuardSystem gedungTULT = new GuardSystem();
         
-        mahasiswa.id = "103022530020";
+        mahasiswa.id = "1030225******";
         mahasiswa.name = "Fasha Azhi Putra";
         mahasiswa.age = "20";
         mahasiswa.country = "indonesia";
